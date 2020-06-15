@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "458646149206",
+    "firebase_url": "https://foodex-befc7.firebaseio.com",
+    "project_id": "foodex-befc7",
+    "storage_bucket": "foodex-befc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458646149206:android:2e85d91b662316e99243f7",
+        "android_client_info": {
+          "package_name": "com.example.foodex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458646149206-mh319l5v78am3ctotbpd1odg1uqmte15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodex",
+            "certificate_hash": "680e9900a354eea9774273db5374806a40257360"
+          }
+        },
+        {
+          "client_id": "458646149206-i3vt5k8rqu212q64h6n02u1t4p546f3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60A_REQucj3QNsu93qV9sPm3FcNoYAmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458646149206-i3vt5k8rqu212q64h6n02u1t4p546f3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
