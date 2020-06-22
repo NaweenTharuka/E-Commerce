@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                         else{
                             loadingBar.dismiss();
+                            Prevalent.currentOnlineUser = usersData;
                             Toast.makeText(MainActivity.this, "Password is incorrect!", Toast.LENGTH_SHORT).show();
                         }
                     }
